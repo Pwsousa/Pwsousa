@@ -9,8 +9,6 @@
 <a href="https://linkedin.com/in/pedro-sousa-224338239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pedro-sousa-224338239" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/w.pedro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/w.pedro/" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
 <div>
   <h4 align="left">Programming Languages</h4> 
   <img align="center" alt="Pw-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -33,8 +31,10 @@
 
   <h4 align="left">Data Analysis</h4>
   <img align="center" alt="PW-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <br></br>
  
-  <img align="right" alt="PW-GIF" src="https://i.pinimg.com/originals/32/f9/5a/32f95ae3571e67baea65896e5c2d03a4.gif">
+  <img align="left" alt="PW-GIF" src="https://i.pinimg.com/originals/32/f9/5a/32f95ae3571e67baea65896e5c2d03a4.gif">
+  <br>
 
 </div>
 
