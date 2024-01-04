@@ -11,7 +11,7 @@
 
   
 </p>
-<h3 align="left">Languages and Tools:</h3> <br>
+<h3 align="left">Languages and Tools:</h3>
 <div>
   <div style="display: inline_block"><br>
   <h4 align="left">Programming Languages</h4> 
@@ -37,4 +37,23 @@
   <img align="center" alt="PW-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
  
   <img align="right" alt="PW-GIF" src="https://i.pinimg.com/originals/32/f9/5a/32f95ae3571e67baea65896e5c2d03a4.gif">
+
+  
+  <a href="https://github.com/Pwsousa">
+  <img
+    alt="Pedro Wilson's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=pedro-wilson&show_icons=true&theme=react&count_private=true&bg_color=15,20232a,003644&custom_title=Diego's%20GitHub%20Stats"
+    height="164"
+    align="bottom"
+  />
+</a>
+
+<a href="https://github.com/pedro-wilson">
+  <img
+    alt="Diego Aquino's Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-wilson&layout=compact&theme=react&bg_color=15,20232a,003644&langs_count=6&hide=haskell"
+    height="164"
+    align="bottom"
+  />
+</a>
 </div>
