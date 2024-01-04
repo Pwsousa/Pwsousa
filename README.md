@@ -8,12 +8,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/pedro-sousa-224338239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pedro-sousa-224338239" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/w.pedro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/w.pedro/" height="30" width="40" /></a>
-
-  
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <div>
-  <div style="display: inline_block"><br>
   <h4 align="left">Programming Languages</h4> 
   <img align="center" alt="Pw-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="PW-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
