@@ -38,11 +38,14 @@
  
   <img align="right" alt="PW-GIF" src="https://i.pinimg.com/originals/32/f9/5a/32f95ae3571e67baea65896e5c2d03a4.gif">
 
-  
-  <a href="https://github.com/Pwsousa">
+</div>
+
+<div>
+    <a href="https://github.com/Pwsousa">
+    
   <img
     alt="Pedro Wilson's GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=pedro-wilson&show_icons=true&theme=react&count_private=true&bg_color=15,20232a,003644&custom_title=Diego's%20GitHub%20Stats"
+    src="https://github-readme-stats.vercel.app/api?username=pedro-wilson&show_icons=true&theme=react&count_private=true&bg_color=15,20232a,003644&custom_title=Pedro's%20GitHub%20Stats"
     height="164"
     align="bottom"
   />
@@ -50,10 +53,11 @@
 
 <a href="https://github.com/pedro-wilson">
   <img
-    alt="Diego Aquino's Most Used Languages"
+    alt="Pedro Wilson's Most Used Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-wilson&layout=compact&theme=react&bg_color=15,20232a,003644&langs_count=6&hide=haskell"
     height="164"
     align="bottom"
   />
 </a>
 </div>
+
