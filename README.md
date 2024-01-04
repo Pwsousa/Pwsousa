@@ -28,21 +28,20 @@
 
   <h4 align="left">Database</h4>
   <img align="center" alt="PW-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-
+  <img align="center" alt="PW-SQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg">
   <h4 align="left">Data Analysis</h4>
   <img align="center" alt="PW-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <br></br>
- 
-  <img align="left" alt="PW-GIF" src="https://i.pinimg.com/originals/32/f9/5a/32f95ae3571e67baea65896e5c2d03a4.gif">
+  <img align="center" alt="PW-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
   <br>
-  <div>
+</div>
+<div >
     <a href="https://github.com/Pwsousa">
     
   <img
     alt="Pedro Wilson's GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=pwsousa&show_icons=true&theme=react&count_private=true&bg_color=15,20232a,003644&custom_title=Pedro's%20GitHub%20Stats"
     height="164"
-    align="bottom"
+    align="left"
   />
 </a>
 
@@ -51,11 +50,10 @@
     alt="Pedro Wilson's Most Used Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwsousa&layout=compact&theme=react&bg_color=15,20232a,003644&langs_count=6&hide=haskell"
     height="164"
-    align="bottom"
+    align="left"
   />
 </a>
 </div>
-</div>
 
-
+ <img align="left" alt="PW-GIF" src="https://i.pinimg.com/originals/32/f9/5a/32f95ae3571e67baea65896e5c2d03a4.gif">
 
