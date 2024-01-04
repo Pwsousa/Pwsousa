@@ -37,7 +37,7 @@
   <br>
 
 </div>
-
+<bd></bd>
 <div>
     <a href="https://github.com/Pwsousa">
     
@@ -48,7 +48,7 @@
     align="bottom"
   />
 </a>
-<br></br>
+
 <a href="https://github.com/Pwsousa">
   <img
     alt="Pedro Wilson's Most Used Languages"
