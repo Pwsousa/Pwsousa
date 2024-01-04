@@ -35,10 +35,7 @@
  
   <img align="left" alt="PW-GIF" src="https://i.pinimg.com/originals/32/f9/5a/32f95ae3571e67baea65896e5c2d03a4.gif">
   <br>
-
-</div>
-<br></br>
-<div>
+  <div>
     <a href="https://github.com/Pwsousa">
     
   <img
@@ -58,4 +55,7 @@
   />
 </a>
 </div>
+</div>
+
+
 
