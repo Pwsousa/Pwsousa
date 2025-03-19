@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Wilson</h1>
-<h2 align="center">I'm Student at IFPB, </h2>
+<h2 align="center">I'm Student at UFCG, </h2>
 
 - 🌱 I’m currently learning **React, Next Js**
 - 🚀 I'm open to new challenges and opportunities
