@@ -49,7 +49,7 @@
 <a href="https://github.com/Pwsousa">
   <img
     alt="Pedro Wilson's Most Used Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwsousa&layout=compact&theme=react&bg_color=15,20232a,003644&langs_count=6&hide=haskell"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwsousa&layout=compact&theme=react&bg_color=15,20252a,003644&langs_count=6&hide=haskell"
     height="164"
     align="left"
   />
